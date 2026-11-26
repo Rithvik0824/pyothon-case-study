@@ -10,5 +10,4 @@ This repository contains 10 Python case studies with source code, algorithms, fl
 
 📄 **[Click here to view all 10 case studies (PDF)](Python_ABL_10_Case_Studies_Combined.pdf)**
 
-**Submitted by:** YOUR NAME  
-**Roll No:** YOUR ROLL NUMBER# pyothon-case-study
+
